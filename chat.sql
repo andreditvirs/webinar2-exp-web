@@ -1,0 +1,1 @@
+CREATE TABLE `kbbi`.`chat` ( `update_id` INT NULL , `message` TEXT NULL , `from_id` VARCHAR(255) NULL , `date` INT NULL , `text` TEXT NULL ) ENGINE = InnoDB;
